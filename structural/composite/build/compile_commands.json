@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/abhishek/Documents/DesignPattern/structural/composite/build",
+  "command": "/usr/bin/g++  -I/home/abhishek/Documents/DesignPattern/structural/composite/include -I/home/abhishek/Documents/DesignPattern/structural/composite/interface -g -Wall -Wextra -pedantic -Werror -o CMakeFiles/directory_app.dir/main.cpp.o -c /home/abhishek/Documents/DesignPattern/structural/composite/main.cpp",
+  "file": "/home/abhishek/Documents/DesignPattern/structural/composite/main.cpp",
+  "output": "CMakeFiles/directory_app.dir/main.cpp.o"
+},
+{
+  "directory": "/home/abhishek/Documents/DesignPattern/structural/composite/build",
+  "command": "/usr/bin/g++  -I/home/abhishek/Documents/DesignPattern/structural/composite/include -I/home/abhishek/Documents/DesignPattern/structural/composite/interface -g -Wall -Wextra -pedantic -Werror -o CMakeFiles/directory_app.dir/src/file.cpp.o -c /home/abhishek/Documents/DesignPattern/structural/composite/src/file.cpp",
+  "file": "/home/abhishek/Documents/DesignPattern/structural/composite/src/file.cpp",
+  "output": "CMakeFiles/directory_app.dir/src/file.cpp.o"
+},
+{
+  "directory": "/home/abhishek/Documents/DesignPattern/structural/composite/build",
+  "command": "/usr/bin/g++  -I/home/abhishek/Documents/DesignPattern/structural/composite/include -I/home/abhishek/Documents/DesignPattern/structural/composite/interface -g -Wall -Wextra -pedantic -Werror -o CMakeFiles/directory_app.dir/src/folder.cpp.o -c /home/abhishek/Documents/DesignPattern/structural/composite/src/folder.cpp",
+  "file": "/home/abhishek/Documents/DesignPattern/structural/composite/src/folder.cpp",
+  "output": "CMakeFiles/directory_app.dir/src/folder.cpp.o"
+}
+]
