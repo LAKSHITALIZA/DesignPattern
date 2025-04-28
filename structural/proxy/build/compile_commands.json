@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/abhishek/Documents/DesignPattern/structural/proxy/build",
+  "command": "/usr/bin/c++  -I/home/abhishek/Documents/DesignPattern/structural/proxy/include -g -Wall -Wextra -pedantic -Werror -o CMakeFiles/directory_app.dir/main.cpp.o -c /home/abhishek/Documents/DesignPattern/structural/proxy/main.cpp",
+  "file": "/home/abhishek/Documents/DesignPattern/structural/proxy/main.cpp",
+  "output": "CMakeFiles/directory_app.dir/main.cpp.o"
+},
+{
+  "directory": "/home/abhishek/Documents/DesignPattern/structural/proxy/build",
+  "command": "/usr/bin/c++  -I/home/abhishek/Documents/DesignPattern/structural/proxy/include -g -Wall -Wextra -pedantic -Werror -o CMakeFiles/directory_app.dir/src/lab.cpp.o -c /home/abhishek/Documents/DesignPattern/structural/proxy/src/lab.cpp",
+  "file": "/home/abhishek/Documents/DesignPattern/structural/proxy/src/lab.cpp",
+  "output": "CMakeFiles/directory_app.dir/src/lab.cpp.o"
+},
+{
+  "directory": "/home/abhishek/Documents/DesignPattern/structural/proxy/build",
+  "command": "/usr/bin/c++  -I/home/abhishek/Documents/DesignPattern/structural/proxy/include -g -Wall -Wextra -pedantic -Werror -o CMakeFiles/directory_app.dir/src/security.cpp.o -c /home/abhishek/Documents/DesignPattern/structural/proxy/src/security.cpp",
+  "file": "/home/abhishek/Documents/DesignPattern/structural/proxy/src/security.cpp",
+  "output": "CMakeFiles/directory_app.dir/src/security.cpp.o"
+}
+]
